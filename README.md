@@ -62,8 +62,8 @@ D7 = X Y Z
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:N.Swetha
+RegisterNumber:22008828 
 */
 
 
@@ -73,6 +73,9 @@ RegisterNumber:
 
 ### RTL LOGIC  
 
+![encoder RTL](https://user-images.githubusercontent.com/122199934/214796019-a38bfa3d-e547-4c39-a5a1-08bd89508c7e.png)
+
+![decoder RTL](https://user-images.githubusercontent.com/122199934/214796098-1605380e-33bd-4304-bbf8-a8bdd099f092.png)
 
 
 
@@ -83,10 +86,23 @@ RegisterNumber:
 ### TIMING DIGRAMS  
 
 
+![encoder simulation](https://user-images.githubusercontent.com/122199934/214796203-ca359405-6038-4e80-931c-4b1ee402358a.png)
+
+![decoder simulation](https://user-images.githubusercontent.com/122199934/214796152-866c9193-e770-4294-aca1-3e8f40eeaaac.png)
+
 
 
 
 ### TRUTH TABLE 
+
+ENCODER:
+
+![image](https://user-images.githubusercontent.com/122199934/214796330-887e9d4a-bf2b-4a6b-a4f0-ab55d97c5604.png)
+
+
+DECODER:
+
+![image](https://user-images.githubusercontent.com/122199934/214796489-c2b253f2-d920-4021-b078-c8454ecf6587.png)
 
 
 
@@ -94,3 +110,5 @@ RegisterNumber:
 
 
 ### RESULTS 
+
+Thus the Encoder and Decoder circuits are designed and truth table are verified using quarts
